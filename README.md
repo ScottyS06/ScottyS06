@@ -7,4 +7,4 @@ Topics I am currently interested in:
 * Backend Development
 * Machine Learning
   
-* 👔  Contact me on [Linkedin](https://www.linkedin.com/in/scottysingh)
+👔  Connect with me on [Linkedin](https://www.linkedin.com/in/scottysingh)
