@@ -1,5 +1,10 @@
 ### Hi there, I'm Scotty 👋
-* 🏫  I'm a sophomore studying CS @ UW
-* 💻  This summer I interned @ AT&T
-* 🕸  Checkout my [personal website](https://scottysingh.com) if you want to learn more about me
+
+I am a senior studying Computer Science at the University of Washington. Over the past few years, I have interned at Palantir, Tesla, Microsoft, and AT&T.
+
+Topics I am currently interested in:
+* Distributed Systems
+* Backend Development
+* Machine Learning
+  
 * 👔  Contact me on [Linkedin](https://www.linkedin.com/in/scottysingh)
